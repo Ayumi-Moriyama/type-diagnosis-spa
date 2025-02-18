@@ -4,251 +4,287 @@
         "color": "red",
         "animal": "dog",
         "style": "cool",
-        "type": "リーダータイプ"
+        "type": "リーダータイプ",
+        "description": "自信に満ちあふれ、周囲を引っ張るカリスマ的な存在。"
     },
     {
         "gender": "male",
         "color": "red",
         "animal": "dog",
         "style": "cute",
-        "type": "熱血タイプ"
+        "type": "熱血タイプ",
+        "description": "エネルギッシュで人懐っこく、誰からも愛される性格。"
     },
     {
         "gender": "male",
         "color": "red",
         "animal": "cat",
         "style": "cool",
-        "type": "クールタイプ"
+        "type": "クールタイプ",
+        "description": "冷静で論理的な思考を持ち、計画的に物事を進めるタイプ。"
     },
     {
         "gender": "male",
         "color": "red",
         "animal": "cat",
         "style": "cute",
-        "type": "ツンデレタイプ"
+        "type": "ツンデレタイプ",
+        "description": "一見クールだが、親しくなると甘えん坊な一面を見せる。"
     },
     {
         "gender": "male",
         "color": "red",
         "animal": "bird",
         "style": "cool",
-        "type": "自由人タイプ"
+        "type": "自由人タイプ",
+        "description": "束縛を嫌い、自由を愛する自由奔放な性格。"
     },
     {
         "gender": "male",
         "color": "red",
         "animal": "bird",
         "style": "cute",
-        "type": "ロマンチストタイプ"
+        "type": "ロマンチストタイプ",
+        "description": "ロマンチックで繊細な感性を持ち、美しいものを愛する。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "dog",
         "style": "cool",
-        "type": "論理派タイプ"
+        "type": "論理派タイプ",
+        "description": "論理的で冷静な判断力を持ち、物事を論理的に考える。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "dog",
         "style": "cute",
-        "type": "誠実タイプ"
+        "type": "誠実タイプ",
+        "description": "真面目で誠実な性格で、信頼される存在。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "cat",
         "style": "cool",
-        "type": "ミステリアスタイプ"
+        "type": "ミステリアスタイプ",
+        "description": "謎めいた雰囲気を持ち、周囲に神秘的な魅力を放つ。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "cat",
         "style": "cute",
-        "type": "芸術家タイプ"
+        "type": "芸術家タイプ",
+        "description": "芸術的な感性を持ち、美しいものを愛する。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "bird",
         "style": "cool",
-        "type": "探求者タイプ"
+        "type": "探求者タイプ",
+        "description": "新しいことに挑戦し、知識を追求する知識欲旺盛な性格。"
     },
     {
         "gender": "male",
         "color": "blue",
         "animal": "bird",
         "style": "cute",
-        "type": "夢想家タイプ"
+        "type": "夢想家タイプ",
+        "description": "夢や理想を追い求め、理想主義的な性格。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "dog",
         "style": "cool",
-        "type": "ナチュラルリーダー"
+        "type": "ナチュラルリーダー",
+        "description": "自然体で周囲を引っ張るリーダーシップを持つ。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "dog",
         "style": "cute",
-        "type": "親しみやすいタイプ"
+        "type": "親しみやすいタイプ",
+        "description": "人懐っこく親しみやすい性格で、誰からも愛される。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "cat",
         "style": "cool",
-        "type": "独立タイプ"
+        "type": "独立タイプ",
+        "description": "自立心が強く、自分の意見を持つ独立した性格。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "cat",
         "style": "cute",
-        "type": "癒し系タイプ"
+        "type": "癒し系タイプ",
+        "description": "優しく癒しのある雰囲気を持ち、周囲を和ませる。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "bird",
         "style": "cool",
-        "type": "探検家タイプ"
+        "type": "探検家タイプ",
+        "description": "新しいことに挑戦し、冒険心旺盛な性格。"
     },
     {
         "gender": "male",
         "color": "green",
         "animal": "bird",
         "style": "cute",
-        "type": "穏やかタイプ"
+        "type": "穏やかタイプ",
+        "description": "穏やかで優しい性格で、周囲に安心感を与える。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "dog",
         "style": "cool",
-        "type": "情熱家タイプ"
+        "type": "情熱家タイプ",
+        "description": "情熱的で熱い心を持ち、周囲を魅了する。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "dog",
         "style": "cute",
-        "type": "元気タイプ"
+        "type": "元気タイプ",
+        "description": "元気いっぱいで明るく、周囲を明るくする存在。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "cat",
         "style": "cool",
-        "type": "クールビューティー"
+        "type": "クールビューティー",
+        "description": "クールで美しい雰囲気を持ち、周囲に魅力を放つ。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "cat",
         "style": "cute",
-        "type": "小悪魔タイプ"
+        "type": "小悪魔タイプ",
+        "description": "可愛らしいが、ちょっぴり小悪魔的な一面を持つ。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "bird",
         "style": "cool",
-        "type": "冒険家タイプ"
+        "type": "冒険家タイプ",
+        "description": "冒険心旺盛で新しいことに挑戦する勇気を持つ。"
     },
     {
         "gender": "female",
         "color": "red",
         "animal": "bird",
         "style": "cute",
-        "type": "おしゃれタイプ"
+        "type": "おしゃれタイプ",
+        "description": "おしゃれで美しいものを愛する、ファッションリーダー。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "dog",
         "style": "cool",
-        "type": "冷静沈着タイプ"
+        "type": "冷静沈着タイプ",
+        "description": "冷静で沈着冷静な性格で、物事を冷静に判断する。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "dog",
         "style": "cute",
-        "type": "真面目タイプ"
+        "type": "真面目タイプ",
+        "description": "真面目で誠実な性格で、信頼される存在。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "cat",
         "style": "cool",
-        "type": "ミステリアスビューティー"
+        "type": "ミステリアスビューティー",
+        "description": "謎めいた美しい雰囲気を持ち、周囲に神秘的な魅力を放つ。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "cat",
         "style": "cute",
-        "type": "可憐タイプ"
+        "type": "可憐タイプ",
+        "description": "可憐で優しい雰囲気を持ち、周囲に癒しを与える。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "bird",
         "style": "cool",
-        "type": "インテリジェンスタイプ"
+        "type": "インテリジェンスタイプ",
+        "description": "知的で洞察力があり、物事を深く考える性格。"
     },
     {
         "gender": "female",
         "color": "blue",
         "animal": "bird",
         "style": "cute",
-        "type": "フェアリータイプ"
+        "type": "フェアリータイプ",
+        "description": "優しく美しい雰囲気を持ち、周囲に幸せを運ぶ。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "dog",
         "style": "cool",
-        "type": "ナチュラルリーダー"
+        "type": "ナチュラルリーダー",
+        "description": "自然体で周囲を引っ張るリーダーシップを持つ。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "dog",
         "style": "cute",
-        "type": "癒し系タイプ"
+        "type": "癒し系タイプ",
+        "description": "優しく癒しのある雰囲気を持ち、周囲を和ませる。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "cat",
         "style": "cool",
-        "type": "自由気ままタイプ"
+        "type": "自由気ままタイプ",
+        "description": "束縛を嫌い、自由を愛する自由奔放な性格。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "cat",
         "style": "cute",
-        "type": "おっとりタイプ"
+        "type": "おっとりタイプ",
+        "description": "おっとりとした優しい性格で、周囲に安心感を与える。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "bird",
         "style": "cool",
-        "type": "ナチュラルエレガント"
+        "type": "ナチュラルエレガント",
+        "description": "自然体でエレガントな雰囲気を持ち、周囲に魅力を放つ。"
     },
     {
         "gender": "female",
         "color": "green",
         "animal": "bird",
         "style": "cute",
-        "type": "癒しの天使タイプ"
+        "type": "癒しの天使タイプ",
+        "description": "優しく癒しのある雰囲気を持ち、周囲を和ませる。"
     }
 ]

@@ -2,7 +2,8 @@
   <v-card class="pa-4">
     <v-card-title class="kiwi-maru-medium">診断結果</v-card-title>
     <v-card-text v-if="result" class="kiwi-maru-regular">
-      あなたのタイプは <strong>{{ result.type }}</strong> です！
+      <p>あなたのタイプは <strong>{{ result.type }}</strong> です！</p>
+      <p>あなたは {{ result.description }} といった特徴を持つ傾向があります。</p>
     </v-card-text>
     <v-card-text v-else class="kiwi-maru-regular">
       診断結果が見つかりませんでした。
