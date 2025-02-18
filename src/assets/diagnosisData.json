@@ -1,0 +1,254 @@
+[
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "dog",
+        "style": "cool",
+        "type": "リーダータイプ"
+    },
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "dog",
+        "style": "cute",
+        "type": "熱血タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "cat",
+        "style": "cool",
+        "type": "クールタイプ"
+    },
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "cat",
+        "style": "cute",
+        "type": "ツンデレタイプ"
+    },
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "bird",
+        "style": "cool",
+        "type": "自由人タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "red",
+        "animal": "bird",
+        "style": "cute",
+        "type": "ロマンチストタイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "dog",
+        "style": "cool",
+        "type": "論理派タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "dog",
+        "style": "cute",
+        "type": "誠実タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "cat",
+        "style": "cool",
+        "type": "ミステリアスタイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "cat",
+        "style": "cute",
+        "type": "芸術家タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "bird",
+        "style": "cool",
+        "type": "探求者タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "blue",
+        "animal": "bird",
+        "style": "cute",
+        "type": "夢想家タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "dog",
+        "style": "cool",
+        "type": "ナチュラルリーダー"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "dog",
+        "style": "cute",
+        "type": "親しみやすいタイプ"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "cat",
+        "style": "cool",
+        "type": "独立タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "cat",
+        "style": "cute",
+        "type": "癒し系タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "bird",
+        "style": "cool",
+        "type": "探検家タイプ"
+    },
+    {
+        "gender": "male",
+        "color": "green",
+        "animal": "bird",
+        "style": "cute",
+        "type": "穏やかタイプ"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "dog",
+        "style": "cool",
+        "type": "情熱家タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "dog",
+        "style": "cute",
+        "type": "元気タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "cat",
+        "style": "cool",
+        "type": "クールビューティー"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "cat",
+        "style": "cute",
+        "type": "小悪魔タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "bird",
+        "style": "cool",
+        "type": "冒険家タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "red",
+        "animal": "bird",
+        "style": "cute",
+        "type": "おしゃれタイプ"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "dog",
+        "style": "cool",
+        "type": "冷静沈着タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "dog",
+        "style": "cute",
+        "type": "真面目タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "cat",
+        "style": "cool",
+        "type": "ミステリアスビューティー"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "cat",
+        "style": "cute",
+        "type": "可憐タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "bird",
+        "style": "cool",
+        "type": "インテリジェンスタイプ"
+    },
+    {
+        "gender": "female",
+        "color": "blue",
+        "animal": "bird",
+        "style": "cute",
+        "type": "フェアリータイプ"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "dog",
+        "style": "cool",
+        "type": "ナチュラルリーダー"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "dog",
+        "style": "cute",
+        "type": "癒し系タイプ"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "cat",
+        "style": "cool",
+        "type": "自由気ままタイプ"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "cat",
+        "style": "cute",
+        "type": "おっとりタイプ"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "bird",
+        "style": "cool",
+        "type": "ナチュラルエレガント"
+    },
+    {
+        "gender": "female",
+        "color": "green",
+        "animal": "bird",
+        "style": "cute",
+        "type": "癒しの天使タイプ"
+    }
+]
