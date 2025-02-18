@@ -2,9 +2,9 @@
   <v-app>
     <v-container>
       <v-card class="pa-4" v-if="step === 0">
-        <v-card-title>タイプ診断</v-card-title>
-        <v-card-text>質問に答えてあなたのタイプを診断しましょう。</v-card-text>
-        <v-btn color="primary" @click="startDiagnosis">診断を開始</v-btn>
+        <v-card-title class="kiwi-maru-medium">タイプ診断</v-card-title>
+        <v-card-text class="kiwi-maru-regular">質問に答えてあなたのタイプを診断しましょう。</v-card-text>
+        <v-btn color="primary" @click="startDiagnosis" class="kiwi-maru-medium">診断を開始</v-btn>
       </v-card>
 
       <Q1Gender v-else-if="step === 1" v-model="gender" @next="nextStep" />

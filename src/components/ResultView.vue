@@ -1,14 +1,14 @@
 <template>
   <v-card class="pa-4">
-    <v-card-title>診断結果</v-card-title>
-    <v-card-text v-if="result">
+    <v-card-title class="kiwi-maru-medium">診断結果</v-card-title>
+    <v-card-text v-if="result" class="kiwi-maru-regular">
       あなたのタイプは <strong>{{ result.type }}</strong> です！
     </v-card-text>
-    <v-card-text v-else>
+    <v-card-text v-else class="kiwi-maru-regular">
       診断結果が見つかりませんでした。
     </v-card-text>
   </v-card>
-  <v-btn color="primary" @click="$emit('restart')">再診断する</v-btn>
+  <v-btn color="primary" @click="$emit('restart')" class="kiwi-maru-medium">再診断する</v-btn>
 </template>
 
 <script setup>
