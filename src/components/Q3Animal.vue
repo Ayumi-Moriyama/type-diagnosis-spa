@@ -12,12 +12,12 @@
   </v-card>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { defineProps, defineEmits, computed } from 'vue';
 
-const props = defineProps({
-  modelValue: String, // v-model のバインディング
-});
+const props = defineProps<{
+  modelValue: string, // v-model のバインディング
+}>();
 const emit = defineEmits(['update:modelValue', 'next']);
 
 const innerValue = computed({

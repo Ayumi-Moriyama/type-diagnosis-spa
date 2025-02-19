@@ -23,7 +23,7 @@
   </v-app>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue';
 import Q1Gender from './components/Q1Gender.vue';
 import Q2Color from './components/Q2Color.vue';

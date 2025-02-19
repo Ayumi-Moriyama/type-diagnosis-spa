@@ -2,21 +2,21 @@
   <v-card class="pa-4">
     <v-card-title class="kiwi-maru-medium">性別を選んでください</v-card-title>
     <v-card-text class="kiwi-maru-regular">
-    <v-radio-group v-model="innerValue">
-      <v-radio label="男性" value="male"></v-radio>
-      <v-radio label="女性" value="female"></v-radio>
-    </v-radio-group>
+      <v-radio-group v-model="innerValue">
+        <v-radio label="男性" value="male"></v-radio>
+        <v-radio label="女性" value="female"></v-radio>
+      </v-radio-group>
     </v-card-text>
     <v-btn color="primary" @click="$emit('next')" class="kiwi-maru-regular">次へ</v-btn>
   </v-card>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { defineProps, defineEmits, computed } from 'vue';
 
-const props = defineProps({
-  modelValue: String, // v-model のバインディング
-});
+const props = defineProps<{
+  modelValue: string, // v-model のバインディング
+}>();
 const emit = defineEmits(['update:modelValue', 'next']);
 
 const innerValue = computed({
